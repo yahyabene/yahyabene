@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yahya_BENMAHANE
-- 👀 I’m interested in developement & design
-- 🌱 I’m currently learning JavaScript & React Native
+- 👋 Hi, my name name is @yahya_BENMAHANE
+- 🤖 I’m new to the field of machine learning
 
 <!---
 yahyabene/yahyabene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
